@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4213930.css",
+    "main.js": "/static/js/main.7ea4d927.js",
+    "static/media/fbVideo.png.png": "/static/media/fbVideo.png.1fd476160a3ed7a2f565.png",
+    "static/media/thankstop.png": "/static/media/thankstop.f19d77694f7b29c84dc8.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c4213930.css",
+    "static/js/main.7ea4d927.js"
+  ]
+}
